@@ -1,0 +1,12 @@
+product-id: 920
+comment: ttbox demo
+gme-lang: GERMAN
+init:
+media-path: media/%s
+welcome: welcome
+scripts:
+  ttbox_demo: P(ttbox_demo)
+  rechteck: P(rechteck)
+  kreis: P(kreis)
+  hintergrund: P(hintergrund)
+  STOP: P(STOP)

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="603"
+   height="912"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="demo.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.45798247"
+     inkscape:cx="1479.9386"
+     inkscape:cy="1018.0629"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     units="px" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>(ttbox-start-button)</rdf:li>
+            <rdf:li>(ttbox-stop-button)</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect2997"
+       width="603"
+       height="912"
+       x="0"
+       y="0">
+      <desc
+         id="desc2999">(oid:hintergrund)</desc>
+    </rect>
+    <g
+       id="g3771">
+      <path
+         sodipodi:nodetypes="zzzzzzzzzz"
+         inkscape:connector-curvature="0"
+         id="path3027"
+         d="m 147.44855,197.9619 c -42.91419,9.32552 -54.285424,18.38639 -63.894372,34.02659 -9.608948,15.6402 -18.073738,44.17166 -0.378073,64.65052 17.695665,20.47886 25.397515,19.88563 84.310325,23.44053 58.91281,3.5549 182.07872,-27.95379 233.27117,-18.90365 51.19245,9.05014 69.4318,32.93277 87.33491,24.19668 17.90311,-8.73609 15.55969,-28.20647 18.52558,-61.24786 2.96588,-33.04139 -48.36693,-65.37233 -86.20068,-64.27244 -37.83375,1.09988 -28.20869,16.78213 -78.63923,21.55017 -50.43054,4.76804 -151.41544,-32.76606 -194.32963,-23.44054 z"
+         style="fill:#c8ffff;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+        <desc
+           id="desc3862">(oid:ttbox_demo)</desc>
+      </path>
+      <flowRoot
+         transform="translate(-80.53125,137.44426)"
+         style="line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="flowRoot2989"
+         xml:space="preserve"><flowRegion
+           id="flowRegion2991"><rect
+             y="79.924469"
+             x="119.70987"
+             height="136.10849"
+             width="526.39545"
+             id="rect2993" /></flowRegion><flowPara
+           style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Sans;-inkscape-font-specification:Sans"
+           id="flowPara2995">ttbox demo</flowPara></flowRoot>    </g>
+    <rect
+       style="color:#000000;fill:#ffaaaa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect2985"
+       width="200.06306"
+       height="190.22391"
+       x="104.4348"
+       y="460">
+      <desc
+         id="desc3001">(oid:rechteck)</desc>
+    </rect>
+    <path
+       style="color:#000000;fill:#ffe000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 379.92973,580.7066 c 0,49.64046 -40.24154,89.88201 -89.882,89.88201 -49.64046,0 -89.882,-40.24155 -89.882,-89.88201 0,-49.64046 40.24154,-89.882 89.882,-89.882 49.64046,0 89.882,40.24154 89.882,89.882 z"
+       id="path3775"
+       inkscape:connector-curvature="0">
+      <desc
+         id="desc3023">(oid:kreis)</desc>
+    </path>
+    <rect
+       style="color:#000000;fill:#ffa1ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3769"
+       width="154.2186"
+       height="148.54184"
+       x="344.34659"
+       y="545.42511">
+      <desc
+         id="desc3771">(oid:rechteck)</desc>
+    </rect>
+  </g>
+</svg>
