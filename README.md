@@ -10,7 +10,7 @@ Demo project for [ttbox](https://github.com/cleracruza/ttbox)'s SVG OID placemen
 ## Installation
 
 * Install [`tttool`](https://github.com/entropia/tip-toi-reveng)
-* Install the requirements for [`ttbox`](https://github.com/entropia/tip-toi-reveng)
+* Install the requirements for [`ttbox`](https://github.com/cleracruza/ttbox)
 * Clone this repository and make sure to init the submodules:
 ```
 git clone --recursive https://github.com/cleracruza/ttbox-demo.git
